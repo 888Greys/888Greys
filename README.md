@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/OIP.A3PHJ3W52MIJc5eOS_4B_gHaDH?pid=ImgDet&rs=1)
+[![MasterHead](https://th.bing.com/th/id/R.b664871935fd60921fa84514cfd9db06?rik=CObS%2f0sSWkJ36A&pid=ImgRaw&r=0)
 
 <h1 align="center">Hi 👋, I'm Mathew Kiprono</h1>
 <h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
