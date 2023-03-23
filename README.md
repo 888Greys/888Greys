@@ -1,4 +1,4 @@
-[![MasterHead](https://th.bing.com/th/id/R.b664871935fd60921fa84514cfd9db06?rik=CObS%2f0sSWkJ36A&pid=ImgRaw&r=0)
+[![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
 
 <h1 align="center">Hi 👋, I'm Mathew Kiprono</h1>
 <h3 align="center">A passionate frontend developer from Nairobi Kenya</h3>
