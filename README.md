@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **toxicgreys001@gmail.com**
 
-- ⚡ Fun fact **I am Really Funny**
+- ⚡ Fun fact **I am an avid gamer and enjoy playing both online and offline games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
