@@ -1,7 +1,7 @@
 [![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
 
-<h1 align="center">Hi 👋, I'm Mathew Kiprono</h1>
-<h3 align="center">A passionate backend developer from Nairobi Kenya</h3>
+<h1 align="center">Hi 👋, I'm Mathew Kipronoh Rotich</h1>
+<h3 align="center">A passionate backend developer student from Nairobi Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/888_greys" target="blank"><img src="https://img.shields.io/twitter/follow/888_greys?logo=twitter&style=for-the-badge" alt="888_greys" /></a> </p>
 
-- 🌱 I’m currently learning **C & SQL**
+- 🌱 I’m currently learning **Python & SQL**
 
 - 👨‍💻 All of my projects are available at [https://888greys.github.io/kipronohtech/](https://888greys.github.io/kipronohtech/)
 
