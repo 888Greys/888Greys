@@ -1,6 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
 
-<h1 align="center">Hi 👋, I'm Mathew Kipronoh Rotich</h1>
+<h1 align="center">Hi 👋, I'm Kipronoh Mathew Rotich</h1>
 <h3 align="center">A passionate backend developer student from Nairobi Kenya</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://888greys.github.io/kipronohtech/](https://888greys.github.io/kipronohtech/)
 
-- 💬 Ask me about **C & Python**
+- 💬 Ask me about **C, Javascript, Java, C++ & Python**
 
 - 📫 How to reach me **toxicgreys001@gmail.com**
 
