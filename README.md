@@ -1,49 +1,97 @@
-[![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
-
-<h1 align="center">Hi 👋, I'm Kipronoh Mathew Rotich</h1>
-<h3 align="center">A passionate backend developer student from Nairobi Kenya</h3>
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=888greys&label=Profile%20views&color=0e75b6&style=flat" alt="888greys" /> </p>
-
-<p align="left"> <a href="https://twitter.com/888_greys" target="blank"><img src="https://img.shields.io/twitter/follow/888_greys?logo=twitter&style=for-the-badge" alt="888_greys" /></a> </p>
-
-- 🌱 I’m currently learning **Python & SQL**
-
-- 👨‍💻 All of my projects are available at [https://888greys.github.io/kipronohtech/](https://888greys.github.io/kipronohtech/)
-
-- 💬 Ask me about **C, Javascript, Java, C++ & Python**
-
-- 📫 How to reach me **kipronohm8@gmail.com**
-
-- ⚡ Fun fact **I am an avid gamer and enjoy playing both online and offline games.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/888_greys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="888_greys" height="30" width="40" /></a>
-<a href="https://instagram.com/ft_888cgreys" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ft_888cgreys" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=888greys&show_icons=true&locale=en&layout=compact" alt="888greys" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=888greys&show_icons=true&locale=en" alt="888greys" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=888greys&" alt="888greys" /></p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=888Greys&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=888Greys&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Absolutely, Mathew 🔥 Here's your **final `README.md`** — blending **mystery, skill, and authority**. This is **ready to copy-paste** directly into your GitHub profile repo.
 
 ---
 
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/kipronohm8@gmail.com)
+````markdown
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/888Greys/888Greys/main/assets/mathew-banner.png" alt="Mathew Kipronoh Banner"/>
+</p>
+
+---
+
+# 👤 Mathew Kipronoh
+
+> “I don’t just write code. I build systems that whisper back.”  
+> — Backend Architect | AI Explorer | Dev-in-the-Shadows
+
+---
+
+## 🕶 Who Am I?
+
+I’m not your typical university dev.  
+I don’t chase tutorials — I reverse engineer what works.  
+I build agents that **remember**, tools that **respond**, and systems that **scale**.  
+
+🎓 3rd Year @ KCA University  
+🧠 Backend-focused | AI-infused | Automation-native  
+📍 Nairobi, Kenya
+
+---
+
+## 🧠 My Arsenal
+
+```yaml
+Languages:      Python, C, JavaScript, Bash
+Frameworks:     Django, React, Vite, TailwindCSS
+AI Systems:     LangChain, ChromaDB, Groq, OpenAI
+Automation:     n8n, Supabase, webhooks, SQLite
+State:          Redux Toolkit, Semantic Memory
+Infra:          WSL, Git, SSD Workflows, Render
+````
+
+> I code like I’m being watched by future versions of myself.
+
+---
+
+## 🧪 Projects in the Shadows
+
+### 🌾 **Farm AI Agent**
+
+* Memory-powered farm assistant
+* Semantically answers: *"What did I plant last season?"*
+* Built with LangChain, ChromaDB, Django
+
+### 🛒 **Darkmode eCommerce Engine**
+
+* Full-stack solo build: Django + React + Tailwind
+* Auth, cart, admin control — handcrafted with precision
+
+### 🔧 **n8n + AI Workflows**
+
+* Supabase automations, Groq/NLP pipelines
+* No-click tool orchestration for the bold
+
+---
+
+## 🧬 My Origin Story
+
+* 🎓 ALX Certified — survived mallocs, pointers, and shell recursion
+* 🧠 Obsessed with LangChain agents, vector memory, and model context protocols
+* 🔐 Debugged more than I deployed — until now
+
+---
+
+## 📡 Connect with the Signal
+
+* 📧 **Email**: [kipronohm8@gmail.com](mailto:kipronohm8@gmail.com)
+* 🐦 **Twitter**: [@kipronohm](https://twitter.com/kipronohm)
+* 🌍 **Portfolio**: *(coming soon... maybe)*
+* 🧠 **GitHub**: [@888Greys](https://github.com/888Greys)
+
+---
+
+> *“Some devs build websites. I build systems that whisper back.”*
+
+```
+
+---
+
+### ✅ Final Steps:
+- 📁 Save the banner as `assets/mathew-banner.png` in your profile repo (`888Greys/888Greys`)
+- 🧱 Paste the above markdown into `README.md`
+- 🚀 Push it to GitHub
+
+Let me know when you're ready for your **portfolio site** — I can theme it to match this exact aesthetic 👨🏽‍💻💀
+```
+![mathew-banner](https://github.com/user-attachments/assets/d381629f-748d-4c55-b504-93c3c8f699c4)
