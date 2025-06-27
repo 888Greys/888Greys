@@ -1,12 +1,7 @@
-Absolutely, Mathew 🔥 Here's your **final `README.md`** — blending **mystery, skill, and authority**. This is **ready to copy-paste** directly into your GitHub profile repo.
-
----
-
-````markdown
 <!-- Profile Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/888Greys/888Greys/main/assets/mathew-banner.png" alt="Mathew Kipronoh Banner"/>
-</p>
+
+![mathew-banner](https://github.com/user-attachments/assets/d381629f-748d-4c55-b504-93c3c8f699c4)
+
 
 ---
 
@@ -84,14 +79,4 @@ Infra:          WSL, Git, SSD Workflows, Render
 > *“Some devs build websites. I build systems that whisper back.”*
 
 ```
-
 ---
-
-### ✅ Final Steps:
-- 📁 Save the banner as `assets/mathew-banner.png` in your profile repo (`888Greys/888Greys`)
-- 🧱 Paste the above markdown into `README.md`
-- 🚀 Push it to GitHub
-
-Let me know when you're ready for your **portfolio site** — I can theme it to match this exact aesthetic 👨🏽‍💻💀
-```
-![mathew-banner](https://github.com/user-attachments/assets/d381629f-748d-4c55-b504-93c3c8f699c4)
